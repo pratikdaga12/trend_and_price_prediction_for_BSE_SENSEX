@@ -1,5 +1,5 @@
-# trend and price prediction for bse sensex
-this is a masters project completed by my Team & I
+# Trend and Price prediction for bse sensex
+This is a masters project completed by My Team & I
 the project is based on markov chain and geometric brownian motion 
 initially we get a knowledge of what is markov chain and order of markov chain 
 then we calculate the frequency matrix and tpm for first order and second order
